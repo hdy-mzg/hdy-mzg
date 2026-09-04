@@ -16,7 +16,7 @@
 - 🌱 Developing an agent-based social simulation inspired by Stanford's “Generative Agents” project
 - 🌟 Planning to open-source the project as it matures
 - 🎲 My main personal project is the learning-focused **AI-TRPG**
-- 💼 AI Game Development Engineer
+- 💼 My Job title:AI Game Development Engineer
 
 ## 🧭 Areas of Exploration
 
